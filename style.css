@@ -1,0 +1,11 @@
+
+/* Mengubah warna latar belakang halaman menjadi biru muda */
+body {
+    background-color: rgb(230, 173, 218);
+}
+
+/* Membuat teks judul menjadi putih dan rata tengah */
+h1 {
+    color: rgb(153, 42, 96);
+    text-align: center;
+}
